@@ -1,5 +1,5 @@
 ---
-title: "2nd MODIV-MBON Plankton Workshop"
+title: "MBON Plankton Workshops"
 author: "Plankton ecosystem functions, biodiversity, and forecasting - research requirements and applications"
 date: "13- 14 October 2021 (3.5 hours/day)"
 output: html_document
@@ -11,9 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Organizer: [Marine Biodiversity Observation (MBON)](https://marinebon.org/)
 
-Much life in the sea depends on plankton diversity and production. As the ocean changes, the many ecosystem functions of plankton linked to their biodiversity, distribution, nutrient and carbon flows, timing of life stages and blooms, change in ways that also alter ecosystem services that other organisms, including humans, depend on. There is a need to better understand and predict how these characteristics and processes of the plankton community, their function and services change on different time scales. Justifying comprehensive regional and global studies of the role of plankton biodiversity and ecosystem function will require understanding the importance of plankton in an ecosystem services framework. This series of virtual workshops brings scientists together to provide an overview on the state-of-the-art of field, lab and modelling approaches used to study plankton biodiversity and discuss data needs for improving our understanding on the value of plankton, its functions and ecosystem services. A goal is to align multiple research tools and approaches, data, methods, protocols and knowledge to improve ecological forecasting for research and applications.
+<body>
+  <h4>Much life in the sea depends on plankton diversity and production. As the ocean changes, the many ecosystem functions of plankton linked to their biodiversity, distribution, nutrient and carbon flows, timing of life stages and blooms, change in ways that also alter ecosystem services that other organisms, including humans, depend on. There is a need to better understand and predict how these characteristics and processes of the plankton community, their function and services change on different time scales. Justifying comprehensive regional and global studies of the role of plankton biodiversity and ecosystem function will require understanding the importance of plankton in an ecosystem services framework. This series of virtual workshops brings scientists together to provide an overview on the state-of-the-art of field, lab and modelling approaches used to study plankton biodiversity and discuss data needs for improving our understanding on the value of plankton, its functions and ecosystem services. A goal is to align multiple research tools and approaches, data, methods, protocols and knowledge to improve ecological forecasting for research and applications.
 
-The report for the first MODIV-MBON workshop is available [here](MBON_MODIV_workshop_report.pdf)
+The report for the first MODIV-MBON workshop is available [here](MBON_MODIV_workshop_report.pdf)</h4>
+</body>
 
 <img width="1000px" src="images/plankton_art.PNG"/>
 
@@ -60,10 +62,11 @@ Three virtual workshops will be held during the following time zones:
 
 </body>
 
-## To apply for this workshop please send us:
+## To apply please send the following materials to [Maria Grigoratou](https://www.gmri.org/our-approach/staff/maria-grigoratou/) (mgrigoratou@gmri.org):
 <body>
   <h4>
 <li>a short motivation for why and how you would like to contribute to the workshop objectives with your skills and expertise (max. 400 words),</li>
+<br>
 <li>your CV</li>
   <h4>
 </body>
@@ -80,10 +83,10 @@ Three virtual workshops will be held during the following time zones:
 <li>Renato Quinones</li>
 <li>Anthony Richardson</li>
 <li>Meike Vogt</li>
-<li>Soultana Zervoudaki.</li>
+<li>Soultana Zervoudaki</li>
   <h4>
 </body>
 
-## Sponsoring organizations: 
+## Sponsored by: 
 
-<img width="1000px" src="images/sponsors.JPG"/>
+<img width="1000px" src="images/mbon.JPG"/>
