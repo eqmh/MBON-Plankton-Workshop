@@ -65,14 +65,9 @@ Three virtual workshops will be held during the following time zones:
 
 </body>
 
-## To apply please send the following materials to [Maria Grigoratou](https://www.gmri.org/our-approach/staff/maria-grigoratou/) (mgrigoratou@gmri.org):
-<body>
-  <h4>
-<li>a short motivation for why and how you would like to contribute to the workshop objectives with your skills and expertise (max. 400 words),</li>
-<br>
-<li>your CV</li>
-  <h4>
-</body>
+## To apply please complete the following form:
+
+<iframe src="https://forms.gle/NmReWw2n4z7ck295A" width="760" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading..</iframe>
 
 ## Organizing committee: 
 <body>
