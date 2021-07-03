@@ -54,16 +54,21 @@ The report for the first MODIV-MBON workshop is available
 
 <h4>
 
-The workshops will emphasize on: <br> <br> 1. Data availability,
-accessibility and use, specifically: (i) data types necessary for
-exploring the effect of plankton biodiversity on ecosystem functions,
-(ii) improving our ability to link field observations and models. <br>
-<br> 2. Value of plankton from an ecological, biogeochemical, cultural,
-and economic perspective. <br> <br>
+The workshops will emphasize on:
+
+1.  Data availability, accessibility and use, specifically: (i) data
+    types necessary for exploring the effect of plankton biodiversity on
+    ecosystem functions, (ii) improving our ability to link field
+    observations and models.
+
+2.  Value of plankton from an ecological, biogeochemical, cultural, and
+    economic perspective.
 
 </h4>
 
 </body>
+
+<br>
 
 ## Expected outcomes
 
@@ -72,20 +77,29 @@ and economic perspective. <br> <br>
 <h4>
 
 The goal of the workshops is to develop two international working groups
-to: <br> <br> 1. Develop community-agreed unit conversion tables (e.g.,
-abundance to carbon) published as best practices documents and/or
-available as online tools, important for forecasting and global data
-metaanalysis. <br> <br> 2. Write a synthesis paper on the ecological,
-biogeochemical, economic and recreational value of plankton with
-colleagues from different fields and regions for a global perspective.
-<br> <br> Participants will propose research actions, each linked to
-specific efforts for a multidisciplinary approach to the proposed topics
-(e.g., biological oceanography, data science, education, citizen
-science, policy, socioeconomics, arts).
+to:
+
+1.  Develop community-agreed unit conversion tables (e.g., abundance to
+    carbon) published as best practices documents and/or available as
+    online tools, important for forecasting and global data
+    metaanalysis.
+
+2.  Write a synthesis paper on the ecological, biogeochemical, economic
+    and recreational value of plankton with colleagues from different
+    fields and regions for a global perspective.
+
+<br>
+
+Participants will propose research actions, each linked to specific
+efforts for a multidisciplinary approach to the proposed topics (e.g.,
+biological oceanography, data science, education, citizen science,
+policy, socioeconomics, arts).
 
 </h4>
 
 </body>
+
+<br>
 
 ## Workshop participation:
 
@@ -98,40 +112,41 @@ November 9-10, 2020, with participants from Europe and the USA. The
 upcoming workshops in October 2021 seek to expand the geographic
 representation of participants and we are thus encouraging researchers
 from Africa, Asia, Canada, Latin America, Europe, Middle East, India and
-Oceania to join us in this collective effort. <br> <br> Each workshop
-will gather a diverse group of around 25 participants, each with
-recognized expertise on their field of interest.
+Oceania to join us in this collective effort.
 
-<h4>
+<br>
 
-Three virtual workshops will be held during the following time zones:
+Each workshop will gather a diverse group of around 25 participants,
+each with recognized expertise on their field of interest. Three virtual
+workshops will be held during the following time zones:
 
-<li>
+-   UTC-9 to UTC- 5: Latin America and Canada
 
-UTC-9 to UTC- 5: Latin America and Canada
+-   UTC to UTC + 6: Africa, Europe, Middle East, India
 
-</li>
-
-<li>
-
-UTC to UTC + 6: Africa, Europe, Middle East, India
-
-</li>
-
-<li>
-
-UTC + 7 to UTC + 12: Asia, Oceania
-
-</li>
+-   UTC + 7 to UTC + 12: Asia, Oceania
 
 </body>
+
+<br>
 
 ## To apply:
+
 <body>
+
 <h4>
-Send your CV and a short motivation statement on why and how you would like to contribute to the workshop objectives with your skills and expertise (max. 400 words) to plankton.mbon@gmail.com. Applications will be accepted until **August 25, 2021, at 11:59pm**.
+
+Send your CV and a short motivation statement on why and how you would
+like to contribute to the workshop objectives with your skills and
+expertise (max. 400 words) to
+[plankton.mbon\@gmail.com](mailto:plankton.mbon@gmail.com){.email}.
+Applications will be accepted until **August 25, 2021, at 11:59pm**.
+
 </h4>
+
 </body>
+
+<br>
 
 ## Organizing committee:
 
@@ -139,69 +154,31 @@ Send your CV and a short motivation statement on why and how you would like to c
 
 <h4>
 
-<li>
+-   Esteban Acevedo-Trejos
 
-Esteban Acevedo-Trejos
+-   Clarissa Anderson
 
-</li>
+-   Jason Everett
 
-<li>
+-   Maria Grigoratou
 
-Clarissa Anderson
+-   Enrique Montes
 
-</li>
+-   Frank Muller- Karger
 
-<li>
+-   Renato Quinones
 
-Jason Everett
+-   Anthony Richardson
 
-</li>
+-   Meike Vogt
 
-<li>
-
-Maria Grigoratou
-
-</li>
-
-<li>
-
-Enrique Montes
-
-</li>
-
-<li>
-
-Frank Muller- Karger
-
-</li>
-
-<li>
-
-Renato Quinones
-
-</li>
-
-<li>
-
-Anthony Richardson
-
-</li>
-
-<li>
-
-Meike Vogt
-
-</li>
-
-<li>
-
-Soultana Zervoudaki
-
-</li>
+-   Soultana Zervoudaki
 
 <h4>
 
 </body>
+
+<br>
 
 ## Sponsored by:
 
